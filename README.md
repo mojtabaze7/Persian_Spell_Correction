@@ -1,7 +1,7 @@
 # Persian_Spell_Correction
 
 ## Introduction
-In this project persion spell correction is done based on Language Model (3-gram), Minimum Edit Distance and Transformer (Parsbert).
+In this project Persion spell correction is done based on Language Model (3-gram), Minimum Edit Distance and Transformer (Parsbert).
 
 ## Running
 You can use Spell_Correction.ipynb file to run the project.
