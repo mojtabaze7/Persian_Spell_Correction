@@ -1,4 +1,4 @@
-# Persian_Spell_Correction
+# Persian Spell Correction
 
 ## Introduction
 In this project Persion spell correction is done based on Language Model (3-gram), Minimum Edit Distance and Transformer (Parsbert).
